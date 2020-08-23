@@ -202,5 +202,5 @@ cfsnmtx
 1-sum(diag(cfsnmtx))/sum(cfsnmtx)
 
 ### The SVM had a 32% of missclassification, If I did things right, 
-#   this is not very reliable.
+#   this is reliable.
 
